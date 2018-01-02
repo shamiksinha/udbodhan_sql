@@ -1,0 +1,97 @@
+id,bookname_ws,bookyear_i,bookmonth_txt_en_split,author_txt_en_split,subject_txt_en_split,booknumber_i
+,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Swami Saradananda,Sri Sri Ramakrishnaleela Prosongo,1
+,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Sister Nivedita,Acharya Sri Vivekananda,1
+,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Sri Basanta Kumar Chattopadhyay,Maya O Bigyanbad,1
+,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Dr. Sri Soroshilal Sarkar,Swapnototto,1
+,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Sri Kumudbondhu Sen,Sadhusongo,1
+,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Swami Amritananda,Vedanta-Poribhasha,1
+,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,,Sotkotha,1
+,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,,Mothura Onchole Jalaplabon,1
+,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,Sister Nivedita,Acharya Sri Vivekananda,2
+,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,Swami Sudhhananda,Vedanta-Prochar,2
+,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,Sri Upendranath Dutta,Rup-kotha,2
+,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,Dr. Sri Soroshilal Sarkar,Swapno-totto,2
+,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,,Sangbad O Montobbo,2
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Swami Saradananda,Sri Sri Ramakrishnaleela Prosongo,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Sister Nivedita,Acharya Sri Vivekananda,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Sri Basanta Kumar Chattopadhyay,Tolstoyer Adorsho,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Sri Radhakomol Mukhopadhyay,Vivekananda Smorone,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Dr. Sri Soroshilal Sarkar,Swapnototto,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Swami Amritananda,Ogyan ba Maya,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Sri Phonindranath Ghosh,Bani-Ahwan,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Swami Basudebananda,Bharatiyo Sikhha,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,,Sotkotha,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,,Sri Sri Ramakrishna Paramhongshodeber Troishititomo Janmotshob,3
+,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,,Sangbad O Montobbo,3
+,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Swami Saradananda,Sri Sri Ramakrishnaleela Prosongo,4
+,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Swami Vivekananda,Sarbobhoumik Dhormer Adarsho,4
+,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Sri Kartickchandra Mitra,Sikhguru,4
+,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Dr. Sri Soroshilal Sarkar,Swapnototto,4
+,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Swami Mukteswarananada,Diner Prarthona,4
+,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Swami Basudebananda,Bharatiyo Sikhha,4
+,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,,Sikhha,4
+,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Srimoti Saralabala Dashi,Nobo Borsho,4
+,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,,Shoksangbad,4
+,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Swami Vivekananda,Sarbobhoumik Dhormer Adarsho,5
+,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri Kartickchandra Mitra,Sikhguru,5
+,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri-,Swadhinota,5
+,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Swami Amritananda,Iswarchaitonyo O Jibchaitonyo,5
+,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Swami Basudebananda,Bharatiyo Sikhha,5
+,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri Sastrapani Sharma,Sri Sri Kamakhya Dham,5
+,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri Basanta Kumar Chattopadhyay,Tolstoyer Adorsho Sombhondhe Alochona,5
+,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri Vinodeshwar Dasgupta,Mahakobi Girishchandrake Bughibar Antoray,5
+,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Swami Sudhhananda,Nibhrito Chinta,6
+,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Sri Kartickchandra Mitra,Sikhguru,6
+,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Swami Amritananda,Jogot O Iswar,6
+,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Sri Biharilal Sarkar,Sri krishna Sebok Udhhab,6
+,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Swami Basudebananda,Bharatiyo Sikhha,6
+,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Dr. Sri Soroshilal Sarkar,Swapnototto,6
+,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,,Sangkhipto Alochona,6
+,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Swami Saradananda,Sri Sri Ramakrishnaleela Prosongo,7
+,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Swami Vivekananda,Sarbobhoumik Dhormer Adarsho,7
+,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Sri Kartickchandra Mitra,Sikhguru,7
+,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Sri Hariprasad Basu,Pother Sombol,7
+,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Sri Biharilal Sarkar,Udhhab O Brojogopi,7
+,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Swami Basudebananda,Bharatiyo Sikhha,7
+,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,,Sister Nivedita Balikavidyalaya,7
+,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,,Bostrosonkot,7
+,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,,Mahasamadhi,8
+,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Sri Hariprasad Basu,Pother Sombol,8
+,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Swami Amritananda,Srishti ba samanyo adhyarop,8
+,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Sri Biharilal Sarkar,Sri Krishna O Udhhab ,8
+,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Swami Basudebananda,Bharatiyo Sikhha,8
+,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Sri Basanta Kumar Chattopadhyay,Gayatrir Tatporjyo,8
+,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Sri Probodh Chandra Chattopadhyay,Brahmon O Samaj,8
+,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,,Sangkhipto Somalochona,8
+,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,,Sri Ramakrishna Mission,8
+,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Swami Saradananda,Sri Sri Ramakrishnaleela Prosongo,9
+,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Swami Vivekananda,Dhormo Jinista ki?,9
+,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Swami Basudebananda,Bharatiyo Sikhha,9
+,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Sri Biharilal Sarkar,Sri Krishna O Udhhab ,9
+,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Sri Kartickchandra Mitra,Sikhguru,9
+,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,,Bonge Bostro Sonkot,9
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Swami Vivekananda,Dhormo Jinista ki?,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Swami Premananda,Potro,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,,Smriti,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Swami Adbhotananda,Sotkotha,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,,Ishar Proti Moriyom,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Swami Basudebananda,Bharatiyo Sikhha,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Sri Surendranath Mukhopadhyay,Amader Sadhona,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Sri Biharilal Sarkar,Ma,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Sri Upendranath Dutta,Vedkatha,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Sri Kartickchandra Mitra,Sikhguru,10
+,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,,Uttorbonge Bonya,10
+,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Swami Vivekananda,Sarbobhoumik Dhormolabher upay,11
+,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Sri Biharilal Sarkar,Sri Krishna O Udhhab ,11
+,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Sri Sarachhandra Chakraborty,Adan-Prodan,11
+,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,,Swami Premanander Upodesh,11
+,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Sri Guruprasad Mukhopadhyay,Shimla O Cipimela,11
+,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Sri Gokuldash Dey,Tathagata-Vashishtha-Sangbad,11
+,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Dr. Sri Jitendra Prasad Basu,Sahitya Soundorjo,11
+,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,,Songbad  O Montobbo,11
+,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,,Swami Vivekanander Swabhibyakti,12
+,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,Swami Vivekananda,Sarbobhoumik Dhormolabher upay,12
+,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,Sri Gyanendra Mohon Das,Bilaichondi O Musholmaner Hindutva,12
+,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,Dr. Sri Soroshilal Sarkar,Swapnototto,12
+,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,,Songbad  O Montobbo,12
+,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,,Sister Nivedita Balika-Vidyalaya,12
